@@ -68,11 +68,6 @@ Porque aprender sin crear es solo teoría. La verdadera comprensión viene cuand
 - [AWS CLI Reference](https://docs.aws.amazon.com/cli/)
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 
-### 📞 Soporte
-- Issues en este repositorio
-- Comunidad AWS Builder Center
-- AWS Documentation
-
 ---
 **¡Listo para crear sitios web profesionales en la nube!**
 # workshop-s3-hosting
