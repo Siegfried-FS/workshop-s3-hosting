@@ -1,5 +1,4 @@
 # Workshop: Hosting de Sitios Estáticos en AWS S3
-## De Principiante a Profesional en 50 Minutos
 
 ### 🎯 Objetivos del Workshop
 - Entender qué son los sitios estáticos y por qué usar S3
