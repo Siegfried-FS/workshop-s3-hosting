@@ -3,7 +3,7 @@
 
 ### 🎯 Objetivos del Workshop
 - Entender qué son los sitios estáticos y por qué usar S3
-- Aprender 3 métodos diferentes para subir sitios a S3
+- Aprender 3 métodos diferentes para hacer hosting de sitios en S3
 - Dominar la automatización con GitHub Actions
 - Participar en el reto AWS Builder Center
 
@@ -50,18 +50,20 @@
 ### 🏆 Reto AWS Builder Center
 **Deadline: 20 de Enero 2026**
 
-Crea un sitio estático único usando cualquiera de los métodos aprendidos. **No importa tu nivel de experiencia** - desde una página simple hasta algo más complejo. Lo importante es que sea **auténtico y refleje tu personalidad**.
+Practica el **hosting en AWS S3** usando cualquiera de los métodos aprendidos. **No importa tu nivel de experiencia**:
+
+- **Usa los ejemplos** incluidos en el repositorio y personalízalos
+- **Crea tu propio sitio** único si ya sabes HTML/CSS  
+- **Experimenta y sé curioso** - lo importante es que practiques el hosting
 
 **Requisitos:**
 - Sitio desplegado en S3 usando cualquier método del workshop
-- Contenido original y creativo
+- Contenido original y creativo (puede ser basado en ejemplos)
 - URL funcional
 - Post en AWS Builder Center compartiendo tu URL
 
 **¿Por qué este reto?**
-Porque aprender sin crear es solo teoría. La verdadera comprensión viene cuando tomas los conceptos y los transformas en algo tuyo, algo que refleje tu curiosidad y creatividad.
-
-*"La curiosidad es el combustible del aprendizaje, y la creatividad es donde ese aprendizaje cobra vida."*
+Porque aprender sin practicar es solo teoría. La verdadera comprensión del hosting viene cuando tomas un sitio (ejemplo o propio) y lo despliegas usando los métodos aprendidos.
 
 ### 🛠️ Recursos Adicionales
 - [AWS S3 Documentation](https://docs.aws.amazon.com/s3/)
